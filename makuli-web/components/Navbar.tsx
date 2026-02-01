@@ -8,6 +8,7 @@ export default function Navbar() {
     {name: 'About', href: '/about'},
     {name: 'Contact', href: '/contact'}
   ];
+
    return (
      <nav className="w-full border-b border-zinc-200 bg-white">  
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
